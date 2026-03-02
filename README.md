@@ -4,7 +4,7 @@
 
 # Hair Day – Hair Appointment Scheduling Platform
 
-Hair Day is a web-based hair appointment scheduling application developed as part of my JavaScript training program.
+Hair Day is git 
 
 This project was built to simulate a real-world booking system, focusing on clean architecture, modular code structure, and modern development practices.
 
