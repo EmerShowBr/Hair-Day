@@ -442,7 +442,7 @@ eval("module.exports = __webpack_require__.p + \"3ed99243f708a649d7dc.svg\";\n\n
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/HAIRDAY/";
+/******/ 		__webpack_require__.p = "/Hair-Day/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
